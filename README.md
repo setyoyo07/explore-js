@@ -6,6 +6,8 @@ A repository dedicated to documenting my learning journey, practice code, and ex
 
 - **Event DOM on Form**
 > Implementation and examples of various DOM events on HTML forms, such as `onInput`, `onFocus`, `onSubmit`, `onChange`, and more.
+- **Web Storage**
+> Example usage of web storage (both local and session storage) like how to get, set and modify it
 
 ## 🚀 How to Run
 

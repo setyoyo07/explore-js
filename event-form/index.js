@@ -1,3 +1,4 @@
+// Note: This code was copied from dicoding platform and modified on some part for learning purpose
 document.addEventListener('DOMContentLoaded', function () {
   const inputMaxLengthOnLoad = document.getElementById('inputNama').maxLength;
   document.getElementById('sisaKarakter').innerText = inputMaxLengthOnLoad;
